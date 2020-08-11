@@ -1,4 +1,4 @@
-package br.edu.ifes.poo2.prova2;
+package sockets;
 
 import java.io.Serializable;
 
